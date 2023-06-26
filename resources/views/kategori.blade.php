@@ -6,13 +6,13 @@
             <div id="default-carousel" class="relative w-[1165px] h-[380px] justify-self-center mt-16" data-carousel="slide">
                 <div class="relative overflow-hidden rounded-lg h-96">
                     <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                        <img src="https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2019/09/1280/720/92738b3d-pizzahut_1457959339671_1001378_ver1.0_640_360.png?ve=1&tl=1" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                        <img src="https://img.freepik.com/free-photo/top-view-ingredients-veggies-salad_23-2148585648.jpg?w=1060&t=st=1687762918~exp=1687763518~hmac=cb2a3d5befc2b1a1cc3313afd510ea255ca342a44f5735a15454f7da1cbe639d" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                     </div>
                     <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                        <img src="https://www.jasongarfield.com/wp-content/uploads/2018/10/S1EP3_NO-TEXT.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                        <img src="https://img.freepik.com/free-photo/plate-with-paleo-diet-food-boiled-eggs-avocado-cucumber-nuts-cherry-strawberries-paleo-breakfast-top-view_2829-17450.jpg?w=1060&t=st=1687762999~exp=1687763599~hmac=c36ba97d833d43c451ba7b4a8647e696218248ad46e76e52c6039f7429cde23c" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                     </div>
                     <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                        <img src="https://i0.wp.com/bwretailworld.businessworld.in/wp-content/uploads/2023/05/Untitled-design-21.png?fit=1280%2C720&ssl=1" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                        <img src="https://img.freepik.com/free-photo/real-food-pyramid-assortment-top-view_23-2150238927.jpg?w=1060&t=st=1687763037~exp=1687763637~hmac=777e45e1490ee53d509b28577b24243cc7db15b025a568ec7cb4dbbc69d3995f" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                     </div>
                     <div class="hidden duration-700 ease-in-out" data-carousel-item>
                         <img src="https://www.tulipmag.com/wp-content/uploads/2020/02/Hyderabadi-Chicken-Biryani-by-Shabana-Akbany-1280x720.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
