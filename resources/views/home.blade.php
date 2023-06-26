@@ -27,10 +27,10 @@
                 DAN DIABETES
                 </div>
             </div>
-            <p class="font-montserrat mt-20 pl-5">
+            <p class="text-[22px] text-justify font-montserrat mt-20 ml-12 mr-20 pl-5">
             <a class="text-bold">Penyakit jantung dan diabetes</a> adalah kondisi kesehatan serius yang <a class="text-bold">dapat mengancam nyawa</a>. Penyakit jantung terjadi ketika arteri yang membawa darah dan oksigen ke jantung mengalami penyempitan atau penyumbatan, sementara diabetes terjadi ketika tubuh tidak dapat menghasilkan atau menggunakan insulin dengan baik, yang menyebabkan kadar gula darah yang sangat tinggi. Penderita diabetes memiliki risiko lebih tinggi untuk mengembangkan penyakit jantung dan stroke. 
             </p>
-            <p class="font-montserrat mt-20 pl-5">
+            <p class="text-[22px] text-justify font-montserrat mt-20 ml-12 mr-20 pl-5">
                 <a class="text-bold">Diabetes dapat meningkatkan risiko penyakit jantung</a> karena kadar gula darah yang tinggi dapat merusak pembuluh darah di jantung. Baik penyakit jantung ataupun diabetes dapat menyebabkan gangguan kesehatan serius. Penderita diabetes juga lebih rentan terhadap faktor risiko penyakit jantung, seperti tekanan darah tinggi dan kolesterol tinggi. Sedangkan <a class="text-bold">penyakit jantung dapat menyebabkan</a> serangan jantung, gagal jantung, hingga <a class="text-bold">kematian mendadak</a>. 
             </p>
         </div>
@@ -45,7 +45,7 @@
                 </div>
             </div>
             <div class="w-9/12">
-                <p class="font-montserrat mt-20 pl-5 text-white">
+                <p class="text-[22px] text-justify font-montserrat mt-20 ml-12 pl-5 text-white">
                     <a class="text-bold">Gaya hidup sehat</a>, termasuk pola makan yang seimbang, <a class="text-bold">penting dan memainkan peran krusial</a> bagi penderita diabetes maupun penyakit jantung. 
                     <br><br><br>
                     Dengan menjaga pola makan yang sehat juga seimbang, mereka <a class="text-bold">dapat mengendalikan kondisi kesehatan mereka secara efektif</a> sehingga dapat meningkatkan kualitas hidup serta <a class="text-bold">meminimalkan risiko komplikasi</a> yang mungkin terjadi. 
@@ -62,8 +62,8 @@
                 <img src="{{ asset('img/kemenkesLogo.svg') }}" class="w-36 h-auto m-5" alt="gambar">
             </div>
             <div class="w-11/12">
-                <p class="font-montserrat mt-20 pl-5 text-black">
-                    <a class="text-xl text-bold">
+                <p class="text-[22px] text-justify font-montserrat mt-20 ml-12 mr-20 pl-5 text-black">
+                    <a class="text-2xl font-bold">
                         Diabetes :Penderita di Indonesia bisa mencapai 30 juta orang pada tahun 2030
                     </a>
                     <br>
