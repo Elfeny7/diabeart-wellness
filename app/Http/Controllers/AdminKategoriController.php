@@ -66,7 +66,7 @@ class AdminKategoriController extends Controller
      */
     public function show(string $id)
     {
-        ///menampilkan detail data dengan menemukan/berdasarkan Nim Mahasiswa;
+        ///menampilkan detail data dengan menemukan/berdasarkan id;
         $kategori = Kategori::findOrFail($id);
         $produk = $kategori->produk;
 

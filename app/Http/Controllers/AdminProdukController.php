@@ -113,12 +113,9 @@ class AdminProdukController extends Controller
         $produk = Produk::findOrFail($id);
 
         if ($request->hasFile('gambar')) {
-            // Hapus gambar lama jika ada
             if ($produk->gambar && file_exists(storage_path('app/public/' . $produk->gambar))) {
                 Storage::delete('public/' . $produk->gambar);
             }
-        
-            // Simpan gambar baru
             $gambar = $request->file('gambar')->store('images', 'public');
             $produk->gambar = $gambar;
         } 
