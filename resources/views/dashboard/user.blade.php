@@ -82,7 +82,7 @@
                                 {{ $users->alamat }}
                             </td>
                             <td class="px-6 py-4">
-                                {{ $users->image_user }}
+                                <img class="w-full h-auto mt-4" src="{{ asset('storage/'.$users->image_user) }}" alt="Gambar User">
                             </td>
                             <td class="px-6 py-4">
                                 <button id="updateProductButton" data-modal-toggle="updateProductModal{{ $users->id }}" class="block text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-primary-800" type="button">
