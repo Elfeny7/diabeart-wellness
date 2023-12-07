@@ -119,7 +119,7 @@
                     @endif
                     @foreach($ulasan as $ul)
                     <div class="flex justify-self-center mt-6">
-                        <div class="flex w-[1200px] h-[150px] bg-white rounded-xl px-10 py-6 drop-shadow-lg">
+                        <div class="flex w-full h-[150px] bg-white rounded-xl px-10 py-6 drop-shadow-lg">
                             <img src="{{ isset($ul->user->image_user) ? asset('storage/'.$ul->user->image_user) : 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Default_pfp.svg/1200px-Default_pfp.svg.png' }}" alt="gambar" class="w-[90px] h-fit rounded-full self-center">
                             <div class="flex flex-col self-center ml-10">
                                 <p class="mb-2">{{$ul->user->name ?? 'User telah dihapus'}}</p>
